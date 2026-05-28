@@ -73,7 +73,6 @@ class _MainScreenState extends State<MainScreen> {
   }
 }
 
-// ===================== HOME SCREEN =====================
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
