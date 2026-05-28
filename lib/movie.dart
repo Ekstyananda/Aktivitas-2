@@ -59,7 +59,6 @@ class MovieScreen extends StatelessWidget {
                       padding: const EdgeInsets.symmetric(vertical: 14),
                     ),
                     onPressed: () {
-                      // Aksi Play
                     },
                     child: const Text(
                       'Pesan',
